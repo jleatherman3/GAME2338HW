@@ -1,0 +1,47 @@
+
+Part One: Clone to hard drive (local directory)
+
+In GitHub goto repo and click code then the copy link for clone repo
+
+goto project folder on computer and right click and open in Git Bash
+
+type
+git clone <url from git hub>
+(no <> when typing. use shift+insert to copy url)
+
+Check folder to make sure everything copied in then continue
+
+
+Part Two: Upload back to GitHub
+
+Go to project folder 
+GitRepos> HWFolder>
+
+Move/add files as needed
+
+Right click HWfolder and select open with Git Bash
+
+Type
+
+git add .
+this adds any new changes from local directory to a temp folder to be uploaded
+
+type 
+
+git commit -m "Message goes here"
+This will commit the changes made to the selected folder and add the attached message to any changed files
+
+
+******* Need help from here onwards ********
+
+type
+
+git push --tags
+Push changes to GitHub with attached tags for files (didn't work)
+
+git push 
+Pushes changes to GitHub as new files without commit history
+
+Need steps to pull commit history from Github and attach it to the local files then push it up to the clone file in the folders.
+
+After commit history is transfered over I can delete the duplicate files from the main repo to clean things up
