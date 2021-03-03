@@ -1,3 +1,5 @@
+Use with Git Bash command line software (part of Git for desktop computers)
+
 # download a repository on GitHub.com to our machine
 git clone https://github.com/me/repo.git
 
