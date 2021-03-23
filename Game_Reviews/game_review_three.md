@@ -22,8 +22,6 @@ Trine 4 World Map fold out poster
 
 Reversible box cover art
 
-[Trine on StrategyWiki](https://strategywiki.org/wiki/Trine)
-
 [Trine Ultimate Collection on Playstation Store](https://store.playstation.com/en-us/product/UP4029-CUSA10755_00-TRINEULTIMATECOL)
 
 ### Rating
@@ -52,12 +50,8 @@ On a scale of 1 (bad) to 5 (very good) I rate the game features as follows:
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+&emsp;I like the co-op aspect of this game so you can have someone help you with the puzzles and fights you are having trouble with on your own. You can even start out playing solo and have a local player join by pressing options on their controller. Co-op allows you to work simutanusly to solve the challenge instead of switching characters back and forth in solo. Somethhing I didnt like about the game is there is no way to make consistant object sizes when drawing them with the mage. Sometimes when you draw the same shape on the screen you will get different shape sizes which can help or hinder you at times. It would be helpful to have a way to determine the size such as presssing up to be a larger shape or down to be smaller one while drawing.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+[Trine on StrategyWiki](https://strategywiki.org/wiki/Trine)
