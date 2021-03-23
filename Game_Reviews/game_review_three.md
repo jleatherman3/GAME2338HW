@@ -1,4 +1,4 @@
-# Game Review for (GAME TITLE)
+# Game Review for Trine: Ultimate Collection
 
 ## Details
 
@@ -6,6 +6,28 @@
 
 The name of the game, subtitle, and the URL or information on how to find
 the game.
+
+**Title:** Trine: Ultimate Collection
+
+Includes the following:
+
+Trine: Enchanted Edition (Part One)
+
+Trine 2: Complete Story (Part Two)
+
+Trine 3: The Artifacts of Power (Part Three)
+
+Trine 4: The Nightmare Prince (Part Four)
+
+Digital Artbook and Soundtrack
+
+Trine 4 World Map fold out poster
+
+Reversible box cover art
+
+[Trine on StrategyWiki](https://strategywiki.org/wiki/Trine)
+
+[Trine Ultimate Collection on Playstation Store](https://store.playstation.com/en-us/product/UP4029-CUSA10755_00-TRINEULTIMATECOL)
 
 ### Rating
 
