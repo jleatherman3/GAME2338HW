@@ -4,7 +4,7 @@
 
 _What is the name of the test tool?_ 
 
-[Kobiton](https://kobiton.com/?utm_campaign=guru99-automated-testing-tools&utm_source=guru99&utm_medium=listing)
+[Kobiton](https://kobiton.com)
 
 _What company developed this test tool?_ 
 
@@ -39,7 +39,7 @@ Feature list copied from [20 Best Automation Tools](https://www.guru99.com/autom
 
 _What is the name of the test tool?_ 
 
-Tool Name
+[TestProject](https://testproject.io)
 
 _What company developed this test tool?_ 
 
