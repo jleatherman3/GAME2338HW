@@ -43,19 +43,39 @@ _What is the name of the test tool?_
 
 _What company developed this test tool?_ 
 
-TestProject was aquired by a company called Tricentis in 2019. [About TestProject](https://testproject.io/about/)
+TestProject was aquired by a company called Tricentis in 2019. 
+
+[About TestProject](https://testproject.io/about/)
+
+[Tricentis aquisistion of TestProject](https://www.tricentis.com/news/tricentis-acquisition-extends-selenium-and-appium-test-automation-in-the-cloud/)
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+Yes it uses a folder type storage system called Elements to organize and store data related to tests run. This is managed and accessed from a user account created for free. 
+
+[Elements Organization System](https://docs.testproject.io/tips-and-tricks/organizing-and-managing-test-data)
+
+Data related to tests is also stored in a secure cloud server as well as on the local machine of the user according to the FAQ Page of TestProject.
+
+[FAQ Page TestProject](https://docs.testproject.io/getting-started/faqs)
+
+(see last part "What is stored in the cloud?")
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+The Steps Widget allows the tester to create test cases with numbers or keywords to refer to in reports. See [Steps Widget Setup Guide](https://docs.testproject.io/getting-started/create-a-test-step/steps-widget)
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+Windows based machines will run web version of TestProject in Chrome, Edge, Firefox, Internet Explorer, and Safari browsers.
+Android based devices will run web version of TestProject on Chrome.
+Apple IOS based devices will run web version of TestProject on Safari.
+
+See [Supported Environments](https://docs.testproject.io/getting-started/supported-environments) for more information.
+
+This test software seems to support an array of languages including Java and C# but depending on the SDK installed the tester might run into compatibility problems.
+
+See [Legacy SDK vs Open SDK](https://docs.testproject.io/testproject-sdk/overview/sdk-v1-vs-opensdk-v2) for more information on what is supported and what is not based on the SDK you are using.
 
 ### Tool Features
 * Feature One
