@@ -43,7 +43,7 @@ _What is the name of the test tool?_
 
 _What company developed this test tool?_ 
 
-Company Name
+TestProject was aquired by a company called Tricentis in 2019. [About TestProject](https://testproject.io/about/)
 
 _Does this tool do any test case storage/recording?_ 
 
