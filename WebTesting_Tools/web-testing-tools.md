@@ -119,12 +119,18 @@ Yes, this [Introduction to reporting page](https://www.ranorex.com/help/latest/r
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-This program uses Selenium WebDriver to setup and run tests for websites and web browsers such as Chrome, Firefox, and Internet Explorer. See [Cross-Browser Test Automation](https://www.ranorex.com/blog/cross-browser-test-automation/) for more information on how these tests can be setup.
+This program uses Selenium WebDriver to setup and run tests for websites and web browsers such as Chrome, Firefox, and Internet Explorer. See [Cross-Browser Test Automation](https://www.ranorex.com/blog/cross-browser-test-automation/) for more information on how these tests can be setup. Supports C#, VB.NET and Open APIs.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* Functional UI and end-to-end testing on desktop, web, and mobile
+* Cross-browser testing
+* SAP, ERP, Delphi and legacy applications.
+* iOS and Android
+* Run tests locally or remotely, in parallel or distribute on a Selenium Grid
+* Robust reporting
+* Ranorex integrates with leading solutions like Git, TFS, Jenkins, Bamboo, Bugzilla, SpecFlow, NeoLoad, TestRail and more for a complete testing toolchain.
+
+Feature list copied from [20 Best Automation Tools](https://www.guru99.com/automated-testing-tools.html)
 
 ### References
 [20 Best Automation Tools](https://www.guru99.com/automated-testing-tools.html)
