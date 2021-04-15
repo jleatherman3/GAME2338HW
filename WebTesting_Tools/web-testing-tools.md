@@ -115,11 +115,11 @@ You are able to integrade Microsoft Test Manager with Ranorex to allow for data 
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-Answer
+Yes, this [Introduction to reporting page](https://www.ranorex.com/help/latest/ranorex-studio-fundamentals/reporting/introduction/) gives instructions in a webinar on how to setup and customize reports relating to tests run including if the test passed or failed and what the outcome was.
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-Answer
+This program uses Selenium WebDriver to setup and run tests for websites and web browsers such as Chrome, Firefox, and Internet Explorer. See [Cross-Browser Test Automation](https://www.ranorex.com/blog/cross-browser-test-automation/) for more information on how these tests can be setup.
 
 ### Tool Features
 * Feature One
