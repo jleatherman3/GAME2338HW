@@ -12,15 +12,21 @@ _What company developed this test tool?_
 
 _Does this tool do any test case storage/recording?_ 
 
-Yes the information from the tests being run is stored within the administor account, such as screenshots and test history, until it is deleted by the account owner, or if the account is canceled. [FAQ - Data Stored on servers](https://docs.kobiton.com/faq/general-questions/#do-you-store-my-app-tests-and-other-files-on-your-servers-for-how-long)
+Yes the information from the tests being run is stored within the administor account, such as screenshots and test history, until it is deleted by the account owner, or if the account is canceled. 
+
+[FAQ - Data Stored on servers](https://docs.kobiton.com/faq/general-questions/#do-you-store-my-app-tests-and-other-files-on-your-servers-for-how-long)
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-I'm not sure on this, but I found in the Q&A section it mentions going into the execution list and then opening up revisit session to look for failures. I don't see anything about linking those failures to issue numbers like Git has though. [Q&A Page](https://docs.kobiton.com/ita/q&a/)
+I'm not sure on this, but I found in the Q&A section it mentions going into the execution list and then opening up revisit session to look for failures. I don't see anything about linking those failures to issue numbers like Git has though. 
+
+[Q&A Page](https://docs.kobiton.com/ita/q&a/)
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
-It seems to have a webview portal that works with HTML to allow testing via the web. [Webview infomation](https://docs.kobiton.com/faq/general-questions/#my-app-is-hybrid-and-always-times-out-when-finding-elements-on-kobiton-devices-what-should-i-do)
+It seems to have a webview portal that works with HTML to allow testing via the web. 
+
+[Webview information](https://docs.kobiton.com/faq/general-questions/#my-app-is-hybrid-and-always-times-out-when-finding-elements-on-kobiton-devices-what-should-i-do)
 
 ### Tool Features
 * Scriptless capture and execute automation
@@ -47,7 +53,7 @@ TestProject was aquired by a company called Tricentis in 2019.
 
 [About TestProject](https://testproject.io/about/)
 
-[Tricentis aquisistion of TestProject](https://www.tricentis.com/news/tricentis-acquisition-extends-selenium-and-appium-test-automation-in-the-cloud/)
+[Tricentis acquisition of TestProject](https://www.tricentis.com/news/tricentis-acquisition-extends-selenium-and-appium-test-automation-in-the-cloud/)
 
 _Does this tool do any test case storage/recording?_ 
 
@@ -55,20 +61,24 @@ Yes it uses a folder type storage system called Elements to organize and store d
 
 [Elements Organization System](https://docs.testproject.io/tips-and-tricks/organizing-and-managing-test-data)
 
-Data related to tests is also stored in a secure cloud server as well as on the local machine of the user according to the FAQ Page of TestProject.
+Data related to tests run by the user is also stored in a secure cloud server, as well as on the local machine of the user, according to the FAQ Page of TestProject.
 
 [FAQ Page TestProject](https://docs.testproject.io/getting-started/faqs)
 
-(see last part "What is stored in the cloud?")
+(See last part "What is stored in the cloud?")
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
-The Steps Widget allows the tester to create test cases with numbers or keywords to refer to in reports. See [Steps Widget Setup Guide](https://docs.testproject.io/getting-started/create-a-test-step/steps-widget)
+Yes, the Steps Widget allows the tester to create test cases with numbers or keywords to refer to in reports. 
+
+See [Steps Widget Setup Guide](https://docs.testproject.io/getting-started/create-a-test-step/steps-widget)
 
 _If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
 
 Windows based machines will run web version of TestProject in Chrome, Edge, Firefox, Internet Explorer, and Safari browsers.
+
 Android based devices will run web version of TestProject on Chrome.
+
 Apple IOS based devices will run web version of TestProject on Safari.
 
 See [Supported Environments](https://docs.testproject.io/getting-started/supported-environments) for more information.
@@ -78,9 +88,16 @@ This test software seems to support an array of languages including Java and C# 
 See [Legacy SDK vs Open SDK](https://docs.testproject.io/testproject-sdk/overview/sdk-v1-vs-opensdk-v2) for more information on what is supported and what is not based on the SDK you are using.
 
 ### Tool Features
-* Feature One
-* Feature Two
-* Feature Three
+* No complex setups or configurations
+* No coding skills required to get started
+* Share and reuse addons with your team and the entire community
+* Detailed report dashboards
+* Seamless integrations with your CI/CD workflow
+* Free to use forever
+* Collaborate with your team using Selenium and Appium to ensure quality with speed
+* Cloud-based
+
+Feature list copied from [20 Best Automation Tools](https://www.guru99.com/automated-testing-tools.html)
 
 ## Tool Three
 
