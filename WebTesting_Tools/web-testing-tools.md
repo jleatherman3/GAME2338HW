@@ -12,7 +12,7 @@ _What company developed this test tool?_
 
 _Does this tool do any test case storage/recording?_ 
 
-Yes the information from the tests being run is stored within the administor account, such as screenshots and test history, until it is deleted by the account owner, or if the account is canceled. 
+Yes the information from the tests being run is stored within the administer account, such as screenshots and test history, until it is deleted by the account owner, or if the account is canceled. 
 
 [FAQ - Data Stored on servers](https://docs.kobiton.com/faq/general-questions/#do-you-store-my-app-tests-and-other-files-on-your-servers-for-how-long)
 
@@ -49,7 +49,7 @@ _What is the name of the test tool?_
 
 _What company developed this test tool?_ 
 
-TestProject was aquired by a company called Tricentis in 2019. 
+TestProject was acquired by a company called Tricentis in 2019. 
 
 [About TestProject](https://testproject.io/about/)
 
@@ -111,7 +111,7 @@ _What company developed this test tool?_
 
 _Does this tool do any test case storage/recording?_ 
 
-You are able to integrade Microsoft Test Manager with Ranorex to allow for data recording which is stored in a designed project folder on the user's computer. [Automated Tests with Microsoft Test Manager Integrade](https://www.ranorex.com/blog/running-ranorex-automated-tests-using-microsoft-test-manager/)
+You are able to integrate Microsoft Test Manager with Ranorex to allow for data recording which is stored in a designed project folder on the user's computer. [Automated Tests with Microsoft Test Manager Integrate](https://www.ranorex.com/blog/running-ranorex-automated-tests-using-microsoft-test-manager/)
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
