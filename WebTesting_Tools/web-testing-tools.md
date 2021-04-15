@@ -103,15 +103,15 @@ Feature list copied from [20 Best Automation Tools](https://www.guru99.com/autom
 
 _What is the name of the test tool?_ 
 
-Tool Name
+[Ranorex](https://www.ranorex.com)
 
 _What company developed this test tool?_ 
 
-Company Name
+[Ranorex Inc.](https://www.ranorex.com/company/) developed the software and has a parent company called [IDERA Inc.](https://www.ideracorp.com/leadership)
 
 _Does this tool do any test case storage/recording?_ 
 
-Answer
+You are able to integrade Microsoft Test Manager with Ranorex to allow for data recording which is stored in a designed project folder on the user's computer. [Automated Tests with Microsoft Test Manager Integrade](https://www.ranorex.com/blog/running-ranorex-automated-tests-using-microsoft-test-manager/)
 
 _Does this tool allow tester to link requirements or defects to test cases?_ 
 
